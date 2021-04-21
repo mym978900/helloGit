@@ -7,4 +7,7 @@ package com.aolige.git;
  * @Version: 1.0
  **/
 public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("更新1");
+    }
 }
